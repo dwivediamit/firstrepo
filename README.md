@@ -1,0 +1,2 @@
+# firstrepo
+core javascript
